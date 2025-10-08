@@ -1,0 +1,65 @@
+Data Science dengan Python
+
+Data Science adalah bidang interdisipliner yang menggunakan metode ilmiah, proses, algoritma, dan sistem untuk mengekstrak pengetahuan dan insight dari data.
+
+Library Python untuk Data Science:
+
+1. NumPy
+   - Operasi array numerik
+   - Mathematical functions
+   - Linear algebra operations
+   - Foundation untuk library lain
+
+2. Pandas
+   - Data manipulation dan analysis
+   - DataFrame dan Series
+   - Reading/writing berbagai format data
+   - Data cleaning dan transformation
+
+3. Matplotlib
+   - Data visualization
+   - Static, animated, dan interactive plots
+   - Highly customizable
+   - Publication-quality figures
+
+4. Seaborn
+   - Statistical data visualization
+   - Built on top of matplotlib
+   - Beautiful default styles
+   - Complex visualizations made easy
+
+5. Scikit-learn
+   - Machine learning library
+   - Classification, regression, clustering
+   - Model selection dan evaluation
+   - Preprocessing tools
+
+Proses Data Science:
+1. Data Collection: Mengumpulkan data
+2. Data Cleaning: Membersihkan data
+3. Exploratory Data Analysis (EDA): Analisis eksploratori
+4. Feature Engineering: Rekayasa fitur
+5. Model Building: Membangun model
+6. Model Evaluation: Evaluasi model
+7. Deployment: Implementasi model
+
+Jenis Data:
+- Structured data: Database, CSV, Excel
+- Semi-structured: JSON, XML
+- Unstructured: Text, images, audio, video
+
+Tools dan Platform:
+- Jupyter Notebook: Interactive development
+- Google Colab: Cloud-based notebooks
+- Anaconda: Data science platform
+- Kaggle: Competition dan dataset platform
+
+Aplikasi Data Science:
+- Business intelligence
+- Predictive analytics
+- Customer segmentation
+- Fraud detection
+- Recommendation systems
+- Healthcare analytics
+
+Data Science membantu organisasi membuat keputusan berdasarkan data dan menemukan pattern tersembunyi dalam data.

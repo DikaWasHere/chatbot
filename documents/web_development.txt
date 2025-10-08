@@ -1,0 +1,62 @@
+Web Development dengan Python
+
+Python menyediakan berbagai framework untuk pengembangan web yang powerful dan mudah digunakan.
+
+Framework Web Python Populer:
+
+1. Django
+   - Full-featured web framework
+   - Mengikuti pola Model-View-Template (MVT)
+   - Built-in admin interface
+   - ORM (Object-Relational Mapping)
+   - Security features yang kuat
+   - Cocok untuk aplikasi web besar
+
+2. Flask
+   - Micro web framework
+   - Lightweight dan fleksibel
+   - Mudah dipelajari untuk pemula
+   - Banyak ekstensi tersedia
+   - Cocok untuk aplikasi kecil hingga menengah
+
+3. FastAPI
+   - Modern web framework
+   - Sangat cepat (high performance)
+   - Automatic API documentation
+   - Type hints support
+   - Async/await support
+   - Cocok untuk API development
+
+Komponen Web Development:
+- Frontend: HTML, CSS, JavaScript
+- Backend: Python framework
+- Database: PostgreSQL, MySQL, SQLite
+- Deployment: Heroku, AWS, Digital Ocean
+
+Langkah Membuat Web App dengan Flask:
+1. Install Flask: pip install flask
+2. Buat file app.py
+3. Import Flask dan buat instance
+4. Definisikan routes dan functions
+5. Jalankan aplikasi
+
+Contoh sederhana Flask:
+```python
+from flask import Flask
+
+app = Flask(__name__)
+
+@app.route('/')
+def home():
+    return 'Hello, World!'
+
+if __name__ == '__main__':
+    app.run(debug=True)
+```
+
+Best Practices:
+- Gunakan virtual environment
+- Pisahkan konfigurasi dari kode
+- Implementasi error handling
+- Gunakan template engine
+- Implementasi security measures

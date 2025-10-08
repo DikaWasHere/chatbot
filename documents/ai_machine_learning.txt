@@ -1,0 +1,41 @@
+Artificial Intelligence dan Machine Learning
+
+Artificial Intelligence (AI) adalah teknologi yang memungkinkan mesin untuk meniru kecerdasan manusia. Machine Learning (ML) adalah subset dari AI yang fokus pada pembelajaran dari data.
+
+Konsep Dasar AI:
+- Natural Language Processing (NLP): Pemrosesan bahasa alami
+- Computer Vision: Penglihatan komputer
+- Expert Systems: Sistem pakar
+- Robotics: Robotika
+- Speech Recognition: Pengenalan suara
+
+Jenis Machine Learning:
+1. Supervised Learning: Belajar dengan data berlabel
+   - Classification: Klasifikasi
+   - Regression: Regresi
+
+2. Unsupervised Learning: Belajar tanpa label
+   - Clustering: Pengelompokan
+   - Association: Asosiasi
+
+3. Reinforcement Learning: Belajar melalui trial and error
+   - Reward-based learning
+   - Game playing AI
+
+Tools dan Framework Populer:
+- Python: Bahasa pemrograman utama
+- TensorFlow: Framework deep learning
+- PyTorch: Framework neural network
+- Scikit-learn: Library machine learning
+- Keras: High-level neural network API
+- OpenCV: Computer vision library
+
+Aplikasi AI dalam Kehidupan Sehari-hari:
+- Search engines (Google, Bing)
+- Recommendation systems (Netflix, YouTube)
+- Virtual assistants (Siri, Alexa)
+- Autonomous vehicles
+- Medical diagnosis
+- Financial trading
+
+AI dan ML terus berkembang pesat dan mengubah cara kita berinteraksi dengan teknologi.

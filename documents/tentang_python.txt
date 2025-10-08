@@ -1,0 +1,27 @@
+Python: Panduan Lengkap untuk Pemula
+
+Python adalah bahasa pemrograman tingkat tinggi yang sangat populer di kalangan developer. Bahasa ini diciptakan oleh Guido van Rossum dan pertama kali dirilis pada tahun 1991.
+
+Keunggulan Python:
+1. Sintaks yang mudah dipahami dan dipelajari
+2. Dukungan library yang sangat luas
+3. Cross-platform (dapat berjalan di berbagai sistem operasi)
+4. Open source dan gratis
+5. Komunitas yang besar dan aktif
+
+Aplikasi Python:
+- Web development (Django, Flask)
+- Data science dan machine learning (NumPy, Pandas, Scikit-learn)
+- Artificial Intelligence (TensorFlow, PyTorch)
+- Automation dan scripting
+- Game development
+- Desktop applications
+
+Cara Memulai Belajar Python:
+1. Install Python dari python.org
+2. Pilih editor atau IDE (VS Code, PyCharm, IDLE)
+3. Pelajari sintaks dasar (variabel, fungsi, loop)
+4. Praktik dengan project kecil
+5. Bergabung dengan komunitas Python
+
+Python sangat cocok untuk pemula karena sintaksnya yang mirip dengan bahasa Inggris, sehingga mudah dibaca dan dipahami.
